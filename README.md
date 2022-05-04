@@ -9,7 +9,7 @@
 
 Documentation for install project
 
-git clone <repository>
+`git clone <repository>`
 cd <new created directory>
 composer install
 php artisan migrate
