@@ -9,9 +9,9 @@
 
 Documentation for install project
 
-`git clone <repository>`
-`cd <new created directory>`
-`composer install`
-`php artisan migrate`
-`php artisan schedule:work`
-`php artisan serve`
+`git clone <repository>` </br>
+`cd <new created directory>` </br>
+`composer install` </br>
+`php artisan migrate` </br>
+`php artisan schedule:work`</br>
+`php artisan serve` </br>
