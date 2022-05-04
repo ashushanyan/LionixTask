@@ -12,6 +12,7 @@ Documentation for install project
 `git clone <repository>` </br>
 `cd <new created directory>` </br>
 `composer install` </br>
+`git checkout master` </br>
 `php artisan migrate` </br>
 `php artisan schedule:work`</br>
 `php artisan serve` </br>
